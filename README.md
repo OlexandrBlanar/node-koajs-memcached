@@ -1,21 +1,20 @@
-node-koajs-skeleton
+node-koajs-memcached
 ===================
 
-A simple [Koajs v2 Application Skeleton](https://github.com/ria-com/node-koajs-skeleton)
 
 quick start
 ===========
 
-**Checkout node-koajs-skeleton:**
+**Checkout node-koajs-memcached:**
 
 ```sh
-$ git clone https://github.com/ria-com/node-koajs-skeleton
+$ git clone https://github.com/OlexandrBlanar/node-koajs-memcached.git
 ```
 
 **Make your own new project:**
 
 ```sh
-$ mv node-koajs-skeleton my_new_project
+$ mv node-koajs-memcached my_new_project
 $ cd my_new_project
 $ rm -rf .git
 ```
@@ -55,11 +54,4 @@ By default, implemented support [Ect](http://ectjs.com/) (by speed reasons)
 
 __NOTE__: you must still install the engines you wish to use, add them to your package.json dependencies.
 
-
-roadmap
-=======
-
-   * Add i18n (internationalization) helper skeleton
-   * <s>Add comments to skeleton code</s>
-   * Add logger helper skeleton
    
